@@ -1,2 +1,2 @@
-# ML
-Repo for ML projects and examples
+# Machine Learning
+Repository for ML projects and examples
